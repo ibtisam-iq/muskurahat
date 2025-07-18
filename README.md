@@ -2,33 +2,56 @@
 
 **Muskurahat** (Urdu: مسکراہٹ) means **Smile** — and _Ibtisam_ means the same.
 
-This repository is a celebration of who I am, told through the languages I use every day — YAML, Shell, Python, and more.
+This repository is my **personal introduction, expressed through code** —  
+written in the languages and formats that shape my daily work as a DevOps Engineer.
 
-Each file is not just code, but a reflection of my identity as a DevOps Engineer on a journey toward AIOps and beyond.
+From YAML to Shell to Python, each file is a different way to say the same thing:
+
+> **"Hello, I'm Muhammad Ibtisam Iqbal."**
+
+Muskurahat is not just a smile — it’s a technical self-portrait.  
+It reflects my background, my mindset, and my passion for automation, systems, and continuous learning.
 
 ---
 
 ## 📁 Files
 
-- `intro.yaml` — Me in declarative YAML
-- `intro.sh` — Me in shell scripting style
-- `intro.py` — Me as a Python class
-- `README.md` — You're reading it 😄
+| File         | Language | What It Represents                       |
+|--------------|----------|-------------------------------------------|
+| `intro.yaml` | YAML     | Declarative intro (like Kubernetes/IaC)   |
+| `intro.sh`   | Bash     | Terminal-style self-introduction          |
+| `intro.py`   | Python   | Object-oriented identity                  |
 
 ---
 
-## 💡 About Me
+## 💡 Purpose
 
-- 🧠 **Name**: Muhammad Ibtisam Iqbal  
-- 🌍 **Location**: Pakistan  
-- ⚙️ **Title**: DevOps Engineer | Future AIOps Expert  
-- 🌱 **From**: Horticulture to Infrastructure  
-- 🌐 **Website**: [ibtisam-iq.com](https://ibtisam-iq.com)  
-- 💭 **Belief**: _“Smile is the best syntax.”_
+- 🎯 Introduce myself in a **developer-native way**
+- 🧠 Explore how **identity** can be represented across formats
+- 💼 Showcase my fluency in tools used across DevOps and beyond
+- 💫 Build a portfolio that reflects **not just what I know — but who I am**
 
 ---
 
-## 🔗 Follow my journey  
-- GitHub: [@ibtisam-iq](https://github.com/ibtisam-iq)  
-- Website: [ibtisam-iq.com](https://ibtisam-iq.com)
+## 🧑‍💻 About Me
+
+- **Full Name:** Muhammad Ibtisam Iqbal  
+- **Meaning of Ibtisam:** Smile 😊  
+- **Location:** Pakistan  
+- **Current Role:** DevOps Engineer  
+- **Vision:** To become a world-class AIOps Architect  
+- **Origin:** From fruits (horticulture) to infrastructure  
+- **GitHub:** [@ibtisam-iq](https://github.com/ibtisam-iq)  
+- **Website:** [ibtisam-iq.com](https://ibtisam-iq.com)
+
+---
+
+## 🗨️ Final Note
+
+In a world of resumes and profiles, **Muskurahat** is my smile —  
+translated into **code**.
+
+Whether you speak YAML, Bash, or Python — here's who I am.
+
+
 
