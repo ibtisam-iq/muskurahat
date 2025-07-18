@@ -35,8 +35,7 @@ It reflects my background, my mindset, and my passion for automation, systems, a
 
 ## 🧑‍💻 About Me
 
-- **Full Name:** Muhammad Ibtisam Iqbal  
-- **Meaning of Ibtisam:** Smile 😊  
+- **Full Name:** Muhammad Ibtisam Iqbal 
 - **Location:** Pakistan  
 - **Current Role:** DevOps Engineer  
 - **Vision:** To become a world-class AIOps Architect  
